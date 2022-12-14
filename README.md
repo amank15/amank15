@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aman Kumar
 - 👀 I’m interested in Software engineering and also have Keen interest in Analytics, Machine Learning, Statistics
 - 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on MERN, Machine Learning, Statistics
+- 💞️ I’m looking for Software engineering , Data Science Roles
 - 📫 Reach Me at Gmail - amankum2215@gmail.com, 
 - Github - https://github.com/amank15, 
 - Linkedin - https://www.linkedin.com/in/amank15/
