@@ -2,7 +2,9 @@
 - 👀 I’m interested in Software engineering and also have Keen interest in Analytics, Machine Learning, Statistics
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on MERN, Machine Learning, Statistics
-- 📫 Reach Me at amankum2215@gmail.com, https://github.com/amank15, https://www.linkedin.com/in/amank15/
+- 📫 Reach Me at Gmail - amankum2215@gmail.com, 
+- Github - https://github.com/amank15, 
+- Linkedin - https://www.linkedin.com/in/amank15/
 
 <!---
 amank15/amank15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
