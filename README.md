@@ -9,10 +9,10 @@
 - Github - https://github.com/amank15, 
 - Linkedin - https://www.linkedin.com/in/amank15/
 - 📄Skills : Language: Python, C++ , Javascript, SQL     
--             OS: Linux/Ubuntu, Windows  
--             
--              
--    
+- OS: Linux/Ubuntu, Windows  
+             
+  
+    
 
 <!---
 amank15/amank15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
