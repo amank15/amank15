@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Aman Kumar
-- 💻 I am currently AI Engineer intern @Miko(India), Ex- Software Engineer intern @Samsung(India)
 - 🌱Currently developing Emotional Intelligence(EQ) in Robots.
+- 💻 I am currently AI Engineer intern @Miko(India), Ex- Software Engineer intern @Samsung(India)
+- 🎓 B.Tech - Final year undergrad in Data Science and Artificial Intelligence @IIIT-NR - 
 - 📄 My most recent paper acceptence is in CVMI 2022
 - 👀 I’m interested in Software engineering and also have keen interest in Analytics, Machine Learning, Statistics- 
 - 💞️ I’m looking for Software engineering , Data Science Roles
