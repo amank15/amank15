@@ -8,7 +8,11 @@
 - 📫 Reach Me at Gmail - amankum2215@gmail.com, 
 - Github - https://github.com/amank15, 
 - Linkedin - https://www.linkedin.com/in/amank15/
-- 📄Skills : Language: Python, C++ , Javascript     OS: Linux/Ubuntu, Windows   
+- 📄Skills : Language: Python, C++ , Javascript, SQL     
+-             OS: Linux/Ubuntu, Windows  
+-             
+-              
+-    
 
 <!---
 amank15/amank15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
