@@ -1,15 +1,17 @@
 - 👋 Hi, I’m Aman Kumar
 - 🌱 Developing Emotional Intelligence(EQ) in Robots.
-- 💻 Currently AI Engineer intern @Miko(India), Ex- Software Engineer intern @Samsung(India)
-- 🎓 B.Tech - Final year undergrad in Data Science and Artificial Intelligence @IIIT-NR - 
+- 💻 Currently AI Engineer @Miko(India), Ex- Data Science intern @Samsung(India)
+- 🎓 B.Tech - Data Science and Artificial Intelligence @IIIT-NR undergrad.
 - 📄 My most recent paper acceptence is in CVMI 2022
-- 👀 Interested in Software engineering and also have keen interest in Analytics, Machine Learning, Statistics- 
-- 💞️ Looking for Software engineering , Data Science Roles
+- 👀 Interested in Analytics, Machine Learning, Statistics, Artificial Intelligence, Data Science
 - 📫 Reach Me at Gmail - amankum2215@gmail.com, 
 - Github - https://github.com/amank15, 
 - Linkedin - https://www.linkedin.com/in/amank15/
-- 📄Skills : Language: Python, C++ , Javascript, SQL     
-- OS: Linux/Ubuntu, Windows  
+- 📄Skills : Language: Python, C++ , Java, Javascript, SQL     
+-                       OS: Linux/Ubuntu, Windows
+-                       
+-                       
+- 
              
   
     
