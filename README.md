@@ -8,7 +8,7 @@
 - Github - https://github.com/amank15, 
 - Linkedin - https://www.linkedin.com/in/amank15/
 - 📄Skills : Language: Python, C++ , Java, Javascript, SQL     
--                       OS: Linux/Ubuntu, Windows
+- OS: Linux/Ubuntu, Windows
 -                       
 -                       
 - 
