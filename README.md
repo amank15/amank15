@@ -7,7 +7,7 @@
 - 📫 Reach Me at Gmail - amankum2215@gmail.com, 
 - Github - https://github.com/amank15, 
 - Linkedin - https://www.linkedin.com/in/amank15/
-- 📄Skills : Language: Python, C++ , Java, Javascript, SQL     
+- 📄Skills : Language: Python, C++ , SQL     
 - OS: Linux/Ubuntu, Windows
 
              
