@@ -3,7 +3,7 @@
 - 💻 Currently AI Engineer @Miko(India), Ex- Data Science intern @Samsung(India)
 - 🎓 B.Tech - Data Science and Artificial Intelligence @IIIT-NR undergrad.
 - 📄 My most recent paper acceptence is in CVMI 2022
-- 👀 Interested in Analytics, Machine Learning, Statistics, Artificial Intelligence, Data Science
+- 👀 Interested in Artificial Intelligence, Machine Learning, Statistics, , Data Science, Analytics
 - 📫 Reach Me at Gmail - amankum2215@gmail.com, 
 - Github - https://github.com/amank15, 
 - Linkedin - https://www.linkedin.com/in/amank15/
